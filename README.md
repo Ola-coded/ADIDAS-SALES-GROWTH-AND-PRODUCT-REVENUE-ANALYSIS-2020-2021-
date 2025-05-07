@@ -8,6 +8,35 @@ Objective
 
 To evaluate Adidas’ product performance and revenue trends, identify the most profitable segments across geography, sales channels, and retail partners, and to uncover strategic insights that can drive profitability and market expansion.
 
+Methodology
+
+The Adidas Sales Growth and Product Revenue Analysis (2020–2021) was developed using a structured business intelligence approach. The methodology involved the following steps:
+
+Data Collection
+
+Sales and profit data for Adidas products, retailers, regions, cities, and channels were gathered for the period of 2020 to 2021.
+
+
+Data Cleaning and Preparation
+
+The dataset was cleaned to remove duplicates, handle missing values, and ensure consistency in categories such as product names, regions, and time formats.
+
+
+Data Aggregation
+
+Metrics such as operating profit were aggregated across different dimensions, product type, sales channel, location, and retailer—to provide a multi-perspective view.
+
+
+Data Visualization
+
+Interactive dashboards were created using a visualization tool (e.g., Power BI or Tableau), allowing the comparison of key indicators like operating profit and monthly revenue trends.
+
+
+Performance Analysis
+
+Comparative analysis was applied to identify top-performing products, channels, and regions, using bar charts, pie charts, and trend lines to support decision-making.
+
+
 Description
 
 This analysis visually presents operating profit comparisons across various dimensions, including:
@@ -81,4 +110,8 @@ o	Channel advertising and product availability toward top-performing regions (We
 5.	Leverage Revenue Peaks Strategically
 
 o	Capitalize on high-revenue months like April and August by aligning major marketing campaigns and product launches with these windows.
+
+Tool Used: Microsoft Excel
+
+Dataset Link: https://www.kaggle.com/datasets/ahmedabbas757/dataset
 
